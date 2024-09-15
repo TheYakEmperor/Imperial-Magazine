@@ -5,7 +5,7 @@ html, body {
     height:98%;
     font-family:Dante MT;
     font-size:11px;
-    background-image: url('Images/poof.png');
+    background-image: url('/src/Images/poof.png');
     background-repeat:repeat;
     color:black;
     padding:1px;
@@ -48,7 +48,7 @@ h2, h4, h6 {
     max-width:1000px;
     height:200px;
     margin:0 auto;
-    background-image: url('Images/wp169.gif');
+    background-image: url('/src/Images/wp169.gif');
     background-size:200px;
     background-repeat:repeat;
     border:1px solid grey;
