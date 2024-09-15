@@ -4,6 +4,8 @@ title: 'Subo'
 description: 'The dumpy bitch has lost it again'
 pubDate: 2024-09-15
 author: 'Harold James'
+setup:
+  import { Picture } from "astro-imagetools/components";
 ---
 Fuck off Babs Johnson
 
