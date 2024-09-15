@@ -13,7 +13,9 @@ const {pageTitle} = Astro.props;
    <head>
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <link href="/src/style.css" rel="stylesheet" type="text/css" media="all">
+      <meta name="generator" content={Astro.generator}>
+      <title>{pageTitle}</title>
+      <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
    </head>
    <body class="scroll">
       <div id="container">
@@ -85,7 +87,7 @@ const {pageTitle} = Astro.props;
             </div>
             <div class="main-content">
                <div class="content">
-                  <h1>Weekly Roundup — 9 September 2024 Albums</h1>
+                  <h1>{pageTitle}</h1>
                   <hr>
                   <slot/>
                </div>
