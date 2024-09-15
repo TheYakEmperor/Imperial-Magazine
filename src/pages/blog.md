@@ -5,11 +5,6 @@ description: 'The dumpy bitch has lost it again'
 pubDate: 2024-09-15
 author: 'Harold James'
 ---
-
-Fuck off Babs Johnson
-
-<h1>Big Boobs!</h1>
-
 <img src="https://upload.wikimedia.org/wikipedia/en/5/51/Djesse_Vol_4_album_cover.jpg" style="width:150px;height:auto;padding-right:10px;float:left;">
 <h3 style="margin-left:5px;">Jacob Collier — Djesse Vol. 4 (Hajanga) &nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/2880px-Flag_of_the_United_Kingdom_%281-2%29.svg.png" style="width:35px;height:auto;"></h3> 
 
