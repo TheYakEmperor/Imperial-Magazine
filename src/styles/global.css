@@ -4,6 +4,7 @@ html, body {
     padding:0;
     height:98%;
     font-family:Dante MT;
+    src:url('/src/Fonts/DanteMTStd-Regular.woff');
     font-size:11px;
     background-image: url('/src/Images/poof.png');
     background-repeat:repeat;
