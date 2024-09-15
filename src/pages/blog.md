@@ -5,7 +5,7 @@ description: 'The dumpy bitch has lost it again'
 pubDate: 2024-09-15
 author: 'Harold James'
 ---
-<img src="https://theyakemperor.neocities.org/Images/djesse4.jpg" style="width:150px;height:auto;padding-right:10px;float:left;">
+<img src="/Images/djesse4.jpg" style="width:150px;height:auto;padding-right:10px;float:left;">
 <h3 style="margin-left:5px;">Jacob Collier — Djesse Vol. 4 (Hajanga) &nbsp;<img src="https://theyakemperor.neocities.org/Images/ukflag.webp" style="width:35px;height:auto;"></h3> 
 
 Serial airplane wanker Jacob Collier delivers... It is a truth universally acknowledged that men become thick as pigshit around women; perhaps that’s why certain, perhaps more observant women think all men are stupid, because from her perspective that’s all men are: stupid. Gawking chuckleheads. As soon as she leaves the room, they return to their phenomenological excursions on the plummeting stock market and grass-fed beef, replete with wry grins and collegiate tittering. Of course it’s an illusion: Roganite meatheads are just as dumb talking about lipids as they are lipstick. But the mere presence of the fairer sex demeans the conversational mode into one of fads and hot topics and local colour (a far more interesting palette). poop
