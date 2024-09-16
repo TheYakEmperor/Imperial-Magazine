@@ -5,6 +5,16 @@ import Gitch from '/src/Images/computers.jpg';
 import Oldlady from '/src/Images/oldladyrocking.gif';
 import Flyover from '/src/Images/flyover.jpg';
 
+import type {MarkdownLayoutProps} from 'astro';
+
+type Props = MarkdownLayoutProps<{
+  // Define frontmatter props here
+  title: string;
+  description: string;
+  author: string;
+  pubDate: string;
+}>;
+
 const {frontmatter} = Astro.props;
 ---
 <!DOCTYPE HTML>
