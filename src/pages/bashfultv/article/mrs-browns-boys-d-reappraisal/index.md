@@ -1,5 +1,5 @@
 ---
-layout: /src/layouts/BaseLayout.astro
+layout: /src/layouts/BaseLayoutSGC.astro
 title: 'Mrs Brown'
 description: 'Rape you'
 pubDate: Mon 16 Sep 2024 01:39 BST
