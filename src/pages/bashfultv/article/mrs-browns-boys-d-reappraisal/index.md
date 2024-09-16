@@ -1,7 +1,7 @@
 ---
-layout: /src/layouts/BaseLayoutSGC.astro
+layout: /src/layouts/BaseLayout.astro
 title: 'Mrs. Brown's Boys — D Reappraisal'
-description: 'Beedlebrop'
+description: 'Rape you'
 pubDate: Mon 16 Sep 2024 01:39 BST
 author: 'Harold James'
 ---
