@@ -2,7 +2,7 @@
 layout: /src/layouts/BaseLayout.astro
 title: 'Subo'
 description: 'The dumpy bitch has lost it again'
-pubDate: 2024-09-15
+pubDate: Mon 16 Sep 2024 01:39 BST
 author: 'Harold James'
 ---
 <img src="https://theyakemperor.neocities.org/Images/djesse4.jpg" style="width:150px;height:auto;padding-right:10px;float:left;">
