@@ -5,8 +5,6 @@ description: 'The dumpy bitch has lost it again'
 pubDate: Mon 16 Sep 2024 01:39 BST
 author: 'Harold James'
 ---
-/blog
-
 <img src="https://theyakemperor.neocities.org/Images/djesse4.jpg" style="width:150px;height:auto;padding-right:10px;float:left;">
 <h3 style="margin-left:5px;">Jacob Collier — Djesse Vol. 4 (Hajanga) &nbsp;<img src="https://theyakemperor.neocities.org/Images/ukflag.webp" style="width:35px;height:auto;"></h3> 
 
