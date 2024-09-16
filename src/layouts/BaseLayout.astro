@@ -7,14 +7,12 @@ import Flyover from '/src/Images/flyover.jpg';
 
 const {frontmatter} = Astro.props;
 ---
-
-<!DOCTYPE html>
+<BaseLayout pageTitle={frontmatter.title}>
 <html>
    <head>
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <meta name="generator" content={Astro.generator}>
-      <title>{frontmatter.title}</title>
       <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
    </head>
    <body class="scroll">
@@ -122,3 +120,4 @@ const {frontmatter} = Astro.props;
       </div>
    </body>
 </html>
+</BaseLayout>
