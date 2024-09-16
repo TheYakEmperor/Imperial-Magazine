@@ -5,14 +5,7 @@ import Gitch from '/src/Images/computers.jpg';
 import Oldlady from '/src/Images/oldladyrocking.gif';
 import Flyover from '/src/Images/flyover.jpg';
 
-type Props = {
-	title: string;
-	description?: string;
-  author?: string;
-  pubDate?: string;
-}
-
-const { title, description, author, pubDate} = Astro.props as Props;
+const {frontmatter} = Astro.props;
 ---
 
 <!DOCTYPE html>
@@ -21,7 +14,7 @@ const { title, description, author, pubDate} = Astro.props as Props;
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <meta name="generator" content={Astro.generator}>
-      <title>{title}</title>
+      <title>{frontmatter.title}</title>
       <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
    </head>
    <body class="scroll">
@@ -55,9 +48,9 @@ const { title, description, author, pubDate} = Astro.props as Props;
          <div class="wrapper">
             <div id="left-sidebar">
                <div class="content">
-                  <p style="padding-bottom:0;padding-top:5px;font-size:14px;"><b>{author}</b><br/>
+                  <p style="padding-bottom:0;padding-top:5px;font-size:14px;"><b>{frontmatter.author}</b><br/>
                   <i>Editor-in-chief</i><br/></p>
-                  <p style="color:#757575;padding-top:0;font-size:12px;padding-bottom:5px;">{pubDate}</p>
+                  <p style="color:#757575;padding-top:0;font-size:12px;padding-bottom:5px;">{frontmatter.pubDate}</p>
                   <hr>
                   <hr>
                   <hr>
@@ -95,8 +88,8 @@ const { title, description, author, pubDate} = Astro.props as Props;
             </div>
             <div class="main-content">
                <div class="content">
-                  <h1>{title}</h1>
-                  <h3>{description}</h3>
+                  <h1>{frontmatter.title}</h1>
+                  <h3>{frontmatter.description}</h3>
                   <hr>
                   <slot/>
                </div>
