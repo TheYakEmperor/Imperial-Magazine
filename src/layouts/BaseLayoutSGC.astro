@@ -6,6 +6,16 @@ import Oldlady from '/src/Images/oldladyrocking.gif';
 import Flyover from '/src/Images/flyover.jpg';
 import SolidGold from '/src/Images/poop.png';
 
+import type {MarkdownLayoutProps} from 'astro';
+
+type Props = MarkdownLayoutProps<{
+  // Define frontmatter props here
+  title: string;
+  description: string;
+  author: string;
+  pubDate: string;
+}>;
+
 const {frontmatter} = Astro.props;
 ---
 
