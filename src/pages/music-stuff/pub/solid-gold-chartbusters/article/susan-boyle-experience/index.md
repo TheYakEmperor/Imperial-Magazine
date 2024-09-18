@@ -7,7 +7,7 @@ author: 'Harold James'
 ---
 <figure>
 <img src="https://i2-prod.liverpoolecho.co.uk/incoming/article16120515.ece/ALTERNATES/s1200/0_BeFunky-collage-1.jpg" style="width:500px;height:auto;" class="center">
-<figcaption style="padding-top:5px;font-size:12px;color:#757575;">Bloody Boil's transfo'mayshun. Source: Liverpool Echo, 2019.</figcaption>
+<figcaption>Bloody Boil's transfo'mayshun. Source: Liverpool Echo, 2019.</figcaption>
 </figure>
 <p style="padding-top:5px;">On the heady night of 11 April 2009, nothing changed for the British music industry.</p>
 
