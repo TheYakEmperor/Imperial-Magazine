@@ -1,6 +1,6 @@
 ---
 layout: /src/layouts/BaseLayout.astro
-title: 'Social Taboo As A Declension Of Evolutionary Necessity'
+title: 'Social Taboo as a Declension Of Evolutionary Necessity'
 description: 'The dumpy bitch has nowhere left to go, but sometimes dreadfulness en masse can have an adverse effect.'
 pubDate: Thu 5 Sep 2024 17:31 BST
 author: 'Harold James'
