@@ -7,7 +7,7 @@ author: 'Harold James'
 ---
 I don’t think people choose their influences, and I don’t think conscious artistic expression is a credible source of musical transcendence. 
 
-There are some who will laud <i>Illmatic</i> or <i>Ready to Die</i> as straight 10/10s due primarily to the presence of ‘hard-hitting’ sociopolitical commentary and so-called ‘urban grit’, while failing to account for the way both [records recoil from, even hate, the mantle of their predecessors]. They are both remarkably recumbent records; Biggie irreverent and braggadocious, Nas chilling on the straight and narrow. Biggie’s flow is like a muggy summer afternoon, Nas’ an austere winter morning. 
+There are some who will laud <i>Illmatic</i> or <i>Ready to Die</i> as straight 10/10s due primarily to the presence of ‘hard-hitting’ sociopolitical commentary and so-called ‘urban grit’, while failing to account for the way both [records recoil from, even hate, the mantle of their predecessors]. They are both remarkably recumbent records; Biggie irreverent and braggadocious, Nas chilling on the straight and narrow. Biggie’s flow carries the air of a muggy summer afternoon, Nas’ an austere winter morning. 
 
 The one true way to get to the crux of something is with metaphor. Babblers will babble on about ‘sonic intricacies’ and ‘artistic growth’ 
 
