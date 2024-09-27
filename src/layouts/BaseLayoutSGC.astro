@@ -59,8 +59,6 @@ const {frontmatter} = Astro.props;
          <div class="wrapper">
             <div id="left-sidebar">
                <div class="content">
-                  <a href="/music-stuff/pub/solid-gold-chartbusters"><img src={SolidGold.src} style="width:176px;height:auto;" class="center"></a>
-                  <hr>
                   <img src={Oldlady.src} style="width:100px;height:auto;" class="center">
                   <h3 style="margin-bottom:5px;">More where this came from:</h3>
                   <ul class="nobullets" style="font-size:12px;">
@@ -95,17 +93,13 @@ const {frontmatter} = Astro.props;
             </div>
             <div class="main-content">
                <div class="content">
+                  <a href="/music-stuff/pub/solid-gold-chartbusters"><img src={SolidGold.src} style="width:176px;height:auto;" class="center"></a>
+                  <hr>
                   <h1>{frontmatter.title}</h1>
                   <h3>{frontmatter.description}</h3>
                   <hr>
-                  <table>
-                     <tr>
-                        <td><a href="/music-stuff/pub/solid-gold-chartbusters"><img src={SolidGold.src} style="width:176px;height:auto;" class="center"></a></td>
-                        <td><p style="padding-bottom:0;padding-top:5px;font-size:14px;"><b>{frontmatter.author}</p>
-                            <p style="color:#757575;padding-top:0;font-size:12px;padding-bottom:5px;">{frontmatter.pubDate}</p>
-                        </td>
-                     </tr>
-                  </table>
+                  <p style="padding-bottom:0;padding-top:5px;font-size:14px;"><b>{frontmatter.author}</p>
+                  <p style="color:#757575;padding-top:0;font-size:12px;padding-bottom:5px;">{frontmatter.pubDate}</p>
                   <hr>
                   <slot/>
                </div>
