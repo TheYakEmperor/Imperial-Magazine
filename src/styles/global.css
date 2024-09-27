@@ -28,21 +28,21 @@ h1, h5 {
     color:#f56f02;
     font-family:Adobe Garamond Pro;
     font-size:25px;
-    font-weight:normal;
+    font-weight:bold;
 }
 
 h3 {
  font-family:Adobe Garamond Pro;
  color:black;
  font-size:15px;
- font-weight:normal;
+ font-weight:bold;
  
 }
 
 h2, h4, h6 {
     color:black;
     font-family:Adobe Garamond Pro;
-    font-weight:normal;
+    font-weight:bold;
 }
 
 figcaption {
