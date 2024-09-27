@@ -117,6 +117,7 @@ figcaption {
     background-color:white;
     border-bottom:none;
     border-right:none;
+    border-top:none;
     width:700px;
     height:auto;
 }
