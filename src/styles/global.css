@@ -26,13 +26,13 @@ ul.list li {
 }
 h1, h5 {
     color:#f56f02;
-    font-family:Futura;
+    font-family:Adobe Garamond Pro;
     font-size:25px;
     font-weight:normal;
 }
 
 h3 {
- font-family:Futura;
+ font-family:Adobe Garamond Pro;
  color:black;
  font-size:15px;
  font-weight:normal;
@@ -41,7 +41,7 @@ h3 {
 
 h2, h4, h6 {
     color:black;
-    font-family:Futura;
+    font-family:Adobe Garamond Pro;
     font-weight:normal;
 }
 
@@ -139,7 +139,7 @@ p a {
 }
 .navbar a {
     text-align:center;
-    font-family:Futura;
+    font-family:Adobe Garamond Pro;
     font-weight:normal;
     text-decoration:none;
     display:block;
