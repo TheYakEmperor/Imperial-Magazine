@@ -1,5 +1,5 @@
 ---
-layout: /src/layouts/BaseLayout.astro
+layout: /src/layouts/BaseLayoutWR.astro
 title: 'Weekly Roundup — 9 Sep 2024 Albums'
 description: ''
 pubDate: Mon 9 Sep 2024 18:32 BST
