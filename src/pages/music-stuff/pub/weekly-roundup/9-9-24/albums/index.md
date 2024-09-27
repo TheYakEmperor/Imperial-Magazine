@@ -1,7 +1,7 @@
 ---
 layout: /src/layouts/BaseLayoutWR.astro
 title: 'Weekly Roundup — 9 Sep 2024 Albums'
-description: ''
+description: "Can't say I particularly enjoyed any of these..."
 pubDate: Mon 9 Sep 2024 18:32 BST
 author: 'Harold James'
 ---
