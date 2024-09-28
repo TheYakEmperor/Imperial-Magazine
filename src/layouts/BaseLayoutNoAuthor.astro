@@ -5,14 +5,6 @@ import Gitch from '/src/Images/computers.jpg';
 import Oldlady from '/src/Images/oldladyrocking.gif';
 import Flyover from '/src/Images/flyover.jpg';
 
-import type {MarkdownLayoutProps} from 'astro';
-
-type Props = MarkdownLayoutProps<{
-  // Define frontmatter props here
-  title: string;
-  description: string;
-}>;
-
 const {frontmatter} = Astro.props;
 ---
 <!DOCTYPE HTML>
@@ -20,7 +12,6 @@ const {frontmatter} = Astro.props;
    <head>
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
-      <meta name="generator" content={Astro.generator}>
       <title>{frontmatter.title}</title>
       <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
    </head>
