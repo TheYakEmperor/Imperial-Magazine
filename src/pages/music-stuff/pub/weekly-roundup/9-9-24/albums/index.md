@@ -10,7 +10,7 @@ author: 'Harold James'
 
 Serial airplane wanker Jacob Collier delivers... It is a truth universally acknowledged that men become thick as pigshit around women; perhaps that’s why certain, perhaps more observant women think all men are stupid, because from her perspective that’s all men are: stupid. Gawking chuckleheads. As soon as she leaves the room, they return to their phenomenological excursions on the plummeting stock market and grass-fed beef, replete with wry grins and collegiate tittering. Of course it’s an illusion: Roganite meatheads are just as dumb talking about lipids as they are lipstick. But the mere presence of the fairer sex demeans the conversational mode into one of fads and hot topics and local colour (a far more interesting palette). poop
 
-
+<hr>
 <img src="https://theyakemperor.neocities.org/Images/capaldus.png" style="width:150px;height:auto;padding-right:10px;float:left;">
 <h3 style="margin-left:5px;">Lewis Capaldi — Broken by Desire to Be Heavenly Sent (Vertigo, Capital) &nbsp;<img src="https://theyakemperor.neocities.org/Images/ukflag.webp" style="width:35px;height:auto;"></h3>
 
