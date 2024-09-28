@@ -2,7 +2,8 @@
 layout: /src/layouts/BaseLayoutWR.astro
 title: 'Weekly Roundup — 9 Sep 2024 Albums'
 description: "Can't say I particularly enjoyed any of these..."
-pubDate: Mon 9 Sep 2024 18:32 BST
+pubDate: Mon 9 Sep 2024
+time: 18:32 BST
 author: 'Harold James'
 ---
 <img src="https://theyakemperor.neocities.org/Images/djesse4.jpg" style="width:150px;height:auto;padding-right:10px;padding-left:5px;float:left;">

@@ -4,6 +4,6 @@ const allPosts = await Astro.glob('./article/*/*.md');
 <ul>
 {allPosts.map((post) => 
 <li><a href={post.url}>{post.frontmatter.title}</a><br/>
-{post.frontmatter.author}, {post.frontmatter.date}<br/>
-<p>{post.frontmatter.description}</p></li>)}
+{post.frontmatter.author}, {post.frontmatter.pubDate}<br/>
+{post.frontmatter.description}</li>)}
 </ul>
