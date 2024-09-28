@@ -3,9 +3,11 @@ import BaseLayoutNoAuthor from "../../../../layouts/BaseLayoutNoAuthor.astro";
 
 const allPosts = await Astro.glob('./article/*/*.md');
 ---
-<ul>
-{allPosts.map((post) => 
-<li><a href={post.url}>{post.frontmatter.title}</a><br/>
+<BaseLayoutNoAuthor>
+    <ul>
+        {allPosts.map((post) => 
+        <li><a href={post.url}>{post.frontmatter.title}</a><br/>
 {post.frontmatter.author}, {post.frontmatter.pubDate}<br/>
-{post.frontmatter.description}</li>)}
-</ul>
+        {post.frontmatter.description}</li>)}
+    </ul>
+</BaseLayoutNoAuthor>
