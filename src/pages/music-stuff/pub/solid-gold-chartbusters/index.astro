@@ -1,0 +1,11 @@
+---
+import BaseLayout from "../../../../layouts/BaseLayout.astro";
+const pageTitle = "Solid Gold Chartbusters";
+
+const allPosts = await Astro.glob('./article/*/*.md');
+---
+<BaseLayout pageTitle={pageTitle}>
+<ul>
+{allPosts.map((post) => <li><a href={post.url}>{post.frontmatter.title}</a></li>)}
+</ul>
+</BaseLayout>
