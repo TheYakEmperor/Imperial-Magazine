@@ -1,9 +1,9 @@
 ---
-import BaseLayoutNoAuthor from "../../../../layouts/BaseLayoutNoAuthor.astro";
+import BaseLayoutNoAuthor from "../../../../layouts/BaseLayoutArchive.astro";
 const pageTitle="Solid Gold Chartbusters";
 const allPosts = await Astro.glob('./article/*/*.md');
 ---
-<BaseLayoutNoAuthor pageTitle={pageTitle}>
+<BaseLayoutNoAuthor title={pageTitle}>
     <ul>
         {allPosts.map((post) => 
         <li><a href={post.url}>{post.frontmatter.title}</a><br/>
