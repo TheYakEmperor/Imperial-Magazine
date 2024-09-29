@@ -4,12 +4,10 @@ const pageTitle="Solid Gold Chartbusters";
 const allPosts = await Astro.glob('./article/*/*.md');
 ---
 <BaseLayoutNoAuthor title={pageTitle}>
-    <p>
-    <ul>
+    <ul style="font-size:14px;">
         {allPosts.map((post) => 
         <li><a href={post.url}>{post.frontmatter.title}</a><br/>
         {post.frontmatter.author}, {post.frontmatter.pubDate}<br/>
         {post.frontmatter.description}</li>)}
     </ul>
-    </p>
 </BaseLayoutNoAuthor>
