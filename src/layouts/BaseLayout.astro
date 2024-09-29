@@ -4,8 +4,10 @@ import '/src/styles/global.css';
 import Gitch from '/src/Images/computers.jpg';
 import Oldlady from '/src/Images/oldladyrocking.gif';
 import Flyover from '/src/Images/flyover.jpg';
+import Humanmade from '/src/Images/human-made.gif';
 
 import type {MarkdownLayoutProps} from 'astro';
+import { maybeRenderHead } from 'astro/compiler-runtime';
 
 type Props = MarkdownLayoutProps<{
   // Define frontmatter props here
@@ -107,6 +109,8 @@ const {frontmatter} = Astro.props;
             </div>
             <div id="right-sidebar">
               <div class="content">
+                <h2>Search</h2>
+                <img src={Humanmade.src}>
                 <h2 style="padding-bottom:10px;text-align:center;">Latest Posts</h2>
                 <img src={Gitch.src} style="width:176px;height:auto;" class="center">
                 <h3 style="margin:0;margin-top:5px;">Solid Gold Chartbusters #3 — Jedward</h3>
