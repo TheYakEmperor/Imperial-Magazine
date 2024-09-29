@@ -4,7 +4,7 @@ const pageTitle="The Idiot Box";
 const allPosts = await Astro.glob('./pub/*/*/*/*.md');
 ---
 <BaseLayoutArchive title={pageTitle}>
-    <ul style="font-size:14px;">
+    <ul style="font-size:15px;">
         {allPosts.map((post) => 
         <li><a href={post.url}>{post.frontmatter.title}</a><br/>
         {post.frontmatter.author}, {post.frontmatter.pubDate}<br/>
