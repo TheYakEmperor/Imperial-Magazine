@@ -4,6 +4,7 @@ title: 'Social Taboo as a Declension of Evolutionary Necessity'
 description: 'The dumpy bitch has nowhere left to go, but sometimes dreadfulness en masse can have an adverse effect.'
 pubDate: Thu 5 Sep 2024 17:31 BST
 author: 'Harold James'
+pub: Bollocksmeister General
 ---
 I don’t think people choose their influences, and I don’t think conscious artistic expression is a credible source of musical transcendence. 
 

@@ -5,6 +5,7 @@ description: 'The dumpy bitch has nowhere left to go, but sometimes dreadfulness
 pubDate: Sat 28 Sep 2024
 time: 16:37 BST
 author: 'Harold James'
+pub: Solid Gold Chartbusters
 ---
 <figure>
 <img src="https://i2-prod.liverpoolecho.co.uk/incoming/article16120515.ece/ALTERNATES/s1200/0_BeFunky-collage-1.jpg" style="width:500px;height:auto;" class="center">
