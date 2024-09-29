@@ -275,3 +275,9 @@ ul.nobullets {
    padding-left: 16px;
    margin:0;
 }
+
+ul.truenobullets {
+    list-style-type:none;
+    margin:0;
+    padding:0;
+}
