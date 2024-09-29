@@ -9,5 +9,5 @@ description: ""
 <hr>
 <h3>Letterboxd Reviews</h3>
 
-<a href="letterboxd-archive">2024</a>
+<a href="letterboxd-archive-2024">2024</a>
                
