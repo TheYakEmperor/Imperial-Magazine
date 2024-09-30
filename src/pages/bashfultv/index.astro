@@ -7,7 +7,7 @@ const allPosts = await Astro.glob('./pub/*/*/*/*.md');
   <table style="font-size:15px;">
       {allPosts.map((post) => 
       <tr>
-        <td><img src={post.frontmatter.thumb} style="float:left;height:125px;width:auto;"></td>
+        <td><img src={post.frontmatter.thumb} style="height:125px;width:auto;" class="center"></td>
         <td>
         <p style="margin-bottom:0;color:#757575;font-size:12px;">{post.frontmatter.pub}</p>
         <p style="margin-top:0;margin-bottom:0;"><a href={post.url}>{post.frontmatter.title}</a></p>
