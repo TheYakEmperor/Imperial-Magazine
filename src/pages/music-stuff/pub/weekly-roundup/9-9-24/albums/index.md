@@ -1,5 +1,5 @@
 ---
-layout: /src/layouts/BaseLayoutWR.astro
+layout: /src/layouts/BaseLayout.astro
 title: 'Weekly Roundup — 9 Sep 2024 Albums'
 description: "Can't say I particularly enjoyed any of these..."
 pubDate: Mon 9 Sep 2024

@@ -6,16 +6,7 @@ import Oldlady from '/src/Images/oldladyrocking.gif';
 import Flyover from '/src/Images/flyover.jpg';
 import Humanmade from '/src/Images/human-made.gif';
 
-import type {MarkdownLayoutProps} from 'astro';
 import { maybeRenderHead } from 'astro/compiler-runtime';
-
-type Props = MarkdownLayoutProps<{
-  // Define frontmatter props here
-  title: string;
-  description: string;
-  author: string;
-  pubDate: string;
-}>;
 
 const {frontmatter} = Astro.props;
 ---
@@ -98,6 +89,7 @@ const {frontmatter} = Astro.props;
             </div>
             <div class="main-content">
                <div class="content">
+                  <p style="padding:0;font-size:12px;">Publication: <a href="/music-stuff/pub/weekly-roundup">{frontmatter.pub}</a></p>
                   <h1>{frontmatter.title}</h1>
                   <h3>{frontmatter.description}</h3>
                   <hr>
