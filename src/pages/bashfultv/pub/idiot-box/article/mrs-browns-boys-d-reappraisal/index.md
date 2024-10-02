@@ -7,6 +7,6 @@ time: 01:39 BST
 author: 'Harold James'
 pub: The Idiot Box
 thumb: https://catholic-herald.b-cdn.net/wp-content/uploads/2016/08/mrs-brown-e1418302007877.jpg
-thumburl: /bashfultv
+thumburl: https://imperialmagazine.netlify.app/bashfultv/
 ---
 Susan
