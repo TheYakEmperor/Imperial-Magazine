@@ -6,7 +6,7 @@ pubDate: Mon 9 Sep 2024
 time: 18:32 BST
 author: 'Harold James'
 pub: Weekly Roundup
-thumburl: "https://imperialmagazine.netlify.app/music-stuff/pub/weekly-roundup"
+puburl: "https://imperialmagazine.netlify.app/music-stuff/pub/weekly-roundup"
 ---
 <img src="https://theyakemperor.neocities.org/Images/djesse4.jpg" style="width:150px;height:auto;padding-right:10px;padding-left:5px;float:left;">
 <h3 style="margin-left:5px;">Jacob Collier — Djesse Vol. 4 (Hajanga) &nbsp;<img src="https://theyakemperor.neocities.org/Images/ukflag.webp" style="width:35px;height:auto;"></h3> 
