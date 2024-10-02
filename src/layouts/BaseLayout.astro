@@ -102,7 +102,7 @@ const {frontmatter} = Astro.props;
             </div>
             <div class="main-content">
                <div class="content">
-                  <p style="padding:0;font-size:12px;">Publication: <a href="/music-stuff/pub/weekly-roundup">{frontmatter.pub}</a></p>
+                  <p style="padding:0;font-size:12px;">Publication: <a href={frontmatter.puburl}>{frontmatter.pub}</a></p>
                   <h1>{frontmatter.title}</h1>
                   <h3>{frontmatter.description}</h3>
                   <hr>
