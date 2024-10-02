@@ -150,13 +150,13 @@ p a {
     margin-right:40px;
 }
 .navbar a:hover{
-    background:var(--lt-color);
-    color:var(--accent);
+    background:white;
+    color:black;
     transition:0.2s all linear;
     z-index:1;
 }
 .navbar li > ul {
-    background:var(--mid-color);
+    background:white;
     display:none;
     position:absolute;
     margin-left:0;
