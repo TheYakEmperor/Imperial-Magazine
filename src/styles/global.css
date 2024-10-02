@@ -160,7 +160,7 @@ p a {
     display:none;
     position:absolute;
     margin-left:0;
-    border:1px solid black;
+    border:none;
 }
 .navbar li > ul a {
     padding-left:0;
