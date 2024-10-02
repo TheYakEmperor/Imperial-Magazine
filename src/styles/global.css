@@ -23,7 +23,7 @@ ul.list li {
     height:auto;
     background-color:white;
     margin-top:15px;
-    border-radius:25px;
+    border-radius:15px;
 }
 h1, h5 {
     color:#f56f02;
@@ -61,7 +61,7 @@ figcaption {
     background-size:200px;
     background-repeat:repeat;
     border:1px solid black;
-    border-radius:25px;
+    border-radius:15px;
 }
 .navbar li a {
     text-decoration:none;
