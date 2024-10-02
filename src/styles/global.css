@@ -21,8 +21,9 @@ ul.list li {
     max-width:900px;
     margin:0 auto;
     height:auto;
-    /*background-color:white;*/
+    background-color:white;
     margin-top:15px;
+    border-radius:25px;
 }
 h1, h5 {
     color:#f56f02;
