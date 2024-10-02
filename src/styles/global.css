@@ -78,6 +78,8 @@ figcaption {
     padding-top:0;
     padding-bottom:0;
     text-align:center;
+    margin-left:226px;
+    border-radius:15px;
 }
 .title {
     font-size:60px;
@@ -112,6 +114,7 @@ figcaption {
     border-right:none;
     border-bottom:none;
     border-top:none;
+    border-radius:15px;
 }
 .content {
     padding:10px;
@@ -235,6 +238,7 @@ textarea {
     border-right:none;
     border-bottom:none;
     border-top:none;
+    border-radius:15px;
 }
 #container {
     max-width:1000px;

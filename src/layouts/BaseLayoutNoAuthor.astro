@@ -24,30 +24,35 @@ const {frontmatter} = Astro.props;
    <div id="header">
       <h1 class="title"><a href="/" style="text-decoration:none;color:white;">Imperial</a></h1>
    </div>
-      <div id="container">
-         <div class="navbar">
-            <ul>
-               <li><a href="/">Home</a></li>
-               <li>
-                  <a href="/bashfultv">The Idiot Box</a>
-                  <ul class="subitems">
-                     <li><a href="#">Subitem</a></li>
-                     <li><a href="#">Subitem</a></li>
-                     <li><a href="#">Subitem</a></li>
-                  </ul>
-               <li>
-                  <a href="/music-stuff">Music</a>
-                  <ul class="subitems">
-                     <li><a href="#">Subitem</a></li>
-                     <li><a href="#">Subitem</a></li>
-                     <li><a href="#">Subitem</a></li>
-                  </ul>
-               <li>
-                  <a href="/about">About</a>
-               <li>
-                  <a href="/contact">Contact</a>
+   <div class="navbar">
+      <ul>
+         <li><a href="/">Home</a></li>
+         <li>
+            <a href="/bashfultv">The Idiot Box</a>
+            <ul class="subitems">
+               <li><a href="#">Subitem</a>
+               <ul>
+                  <li>Boob</li>
+                  <li>Breakneck</li>
+               </ul>
+               </li>
+               <li><a href="#">Subitem</a></li>
+               <li><a href="#">Subitem</a></li>
             </ul>
-         </div>
+         <li>
+            <a href="/music-stuff">Music</a>
+            <ul class="subitems">
+               <li><a href="#">Subitem</a></li>
+               <li><a href="#">Subitem</a></li>
+               <li><a href="#">Subitem</a></li>
+            </ul>
+         <li>
+            <a href="/about">About</a>
+         <li>
+            <a href="/contact">Contact</a>
+      </ul>
+   </div>
+      <div id="container">
          <div class="wrapper">
             <div id="left-sidebar">
                <div class="content">
