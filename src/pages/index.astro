@@ -4,6 +4,7 @@ const pageTitle="Home";
 const allPosts = await Astro.glob('./*/*/*/*/*/*.md');
 ---
 <BaseLayoutArchive title={pageTitle}>
+	<p>Well fuck, I'm not really sure what to put here.</p>
 	<ul style="font-size:15px;" class="truenobullets">
 		{allPosts.map((post) => 
 		<li>
