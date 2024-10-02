@@ -7,7 +7,7 @@ time: 23:07 BST
 author: 'Harold James'
 pub: Standup Tapes
 thumb: https://www.theupcoming.co.uk/wp-content/uploads/2013/03/harry-hill-large.jpeg
-thumburl: https://imperialmagazine.netlify.app/bashfultv/pub/standup-tapes/
+thumburl: "https://imperialmagazine.netlify.app/bashfultv/pub/standup-tapes/"
 
 ---
 <img src="https://m.media-amazon.com/images/I/81VT4Ww8o7L._AC_UF1000,1000_QL80_.jpg" style="width:145px;height:auto;float:left;padding-right:10px;padding-left:5px;">
