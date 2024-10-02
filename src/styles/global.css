@@ -58,7 +58,7 @@ figcaption {
     background-image: url('/src/Images/wp169.gif');
     background-size:200px;
     background-repeat:repeat;
-    border:1px solid grey;
+    border:1px solid black;
 }
 .navbar li a {
     text-decoration:none;
