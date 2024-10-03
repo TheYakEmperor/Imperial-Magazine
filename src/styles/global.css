@@ -180,6 +180,7 @@ p a {
 }
 .navbar li:hover > ul{
     display:block;
+    border-radius:15px;
 }
 .navbar ul ul ul {
     position:absolute;
