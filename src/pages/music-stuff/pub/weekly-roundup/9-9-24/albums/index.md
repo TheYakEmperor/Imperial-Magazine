@@ -5,6 +5,7 @@ description: "Can't say I particularly enjoyed any of these..."
 pubDate: Mon 9 Sep 2024
 time: 18:32 BST
 author: 'Harold James'
+thumb: https://theyakemperor.neocities.org/Images/djesse4.jpg
 pub: Weekly Roundup
 puburl: "https://imperialmagazine.netlify.app/music-stuff/pub/weekly-roundup"
 ---
