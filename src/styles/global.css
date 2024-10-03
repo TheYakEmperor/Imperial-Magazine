@@ -167,6 +167,7 @@ p a {
     position:absolute;
     margin-left:0;
     border:1px solid darkgrey;
+    border-radius:15px;
 }
 .navbar li > ul a {
     padding-left:0;
