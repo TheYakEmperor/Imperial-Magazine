@@ -6,7 +6,8 @@ const allPosts = await Astro.glob('./pub/*/*/*/*.md');
 ---
 <BaseLayoutArchive title={pageTitle}>
 	<ul style="font-size:15px;" class="truenobullets">
-		{allPosts.map((post) => 
+		{allPosts.sort((postA, postB) => (new Date(postB.frontmatter.pubDate) - new Date(postA.frontmatter.pubDate)))
+		.map((post) => 
 		<li>
           <img src={post.frontmatter.thumb} style="height:125px;width:auto;padding-left:5px;">
 		  <p style="margin-top:0;margin-bottom:0;color:#757575;font-size:12px;">{post.frontmatter.pub}</p>
