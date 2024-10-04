@@ -9,8 +9,6 @@ pub: Dream Diary
 thumb: 
 puburl: "https://imperialmagazine.netlify.app/misc/pub/dream-diary"
 ---
-Nothing too interesting last night, just a string of unrelated vignettes that don't really add up to anything substantial. No particularly arresting imagery, either. It went as follows:
-
 We (with whom I don’t remember) are on an extended trip and staying in some sort of hunting lodge that has been gutted and converted into a community library. 
 
 I think there’s something about buses. I often dream about buses. I’m dropped off home, I nip into the supermarket and buy some Pringles. The Co-Op, probably, but not the thickset brown one located on the green at the end of the cul de sac that haunts me occasionally. 
