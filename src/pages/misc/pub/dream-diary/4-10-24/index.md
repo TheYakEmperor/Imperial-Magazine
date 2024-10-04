@@ -11,7 +11,7 @@ puburl: "https://imperialmagazine.netlify.app/misc/pub/dream-diary"
 ---
 We (with whom I don’t remember) are on an extended trip and staying in some sort of hunting lodge that has been gutted and converted into a community library. 
 
-I think there’s something about buses. I often dream about buses. I’m dropped off home, I nip into the supermarket and buy some Pringles. The Co-Op, probably, but not the thickset brown one down on the green at the end of the cul de sac that haunts me occasionally. 
+I think there’s something about buses. I often dream about buses. I’m dropped off home, I nip into the supermarket and buy some Pringles. The Co-Op, probably, but not the thickset brown one located on the green at the end of the cul de sac that haunts me occasionally. 
 
 My dad and I are in a car driving through some vague cityscape. He brings up Tom Felton (but he does not call him that), remarking on how good he was at playing an animal character through motion capture. He asks me something about the Oscars. I lampoon the glammed up glitterati and single out the <i>Lord of the Rings</i> cast for their sartorial humility. I see them, evidently in a flashback, heading down a road toward the ceremony, which I realise now is actually the entrance track from my old job. Like most dreams, it all seems familiar, but I can’t quite place it. 
 
