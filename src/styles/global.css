@@ -150,17 +150,17 @@ p a {
     text-decoration:none;
     display:block;
     color:black;
-    margin-right:15px;
     transition:0.2s all linear;
     font-size:15px;
-    margin-right:40px;
+    margin-left:20px;
+    margin-right:20px;
 }
-.navbar a:hover{
+/*.navbar a:hover{
     background:white;
     color:black;
     transition:0.2s all linear;
     z-index:1;
-}
+}*/
 .navbar li > ul {
     background:white;
     display:none;
