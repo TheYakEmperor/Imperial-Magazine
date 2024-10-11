@@ -84,6 +84,7 @@ figcaption {
 .title {
     font-size:60px;
     font-family: 'Press Start';
+    src: url('/Fonts/prstart-webfont.woff') format('woff');
     text-align: center;
     color:white;
     text-shadow: 2.5px 4px 4px #b702cf;
