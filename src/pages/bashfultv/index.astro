@@ -4,6 +4,7 @@ const pageTitle="The Idiot Box";
 const allPosts = await Astro.glob('./pub/*/*/*/*.md');
 ---
 <BaseLayoutArchive title={pageTitle}>
+	<p><a href="archive">Archive</a></p>
 	<ul style="font-size:15px;" class="truenobullets">
 		{allPosts.sort((postA, postB) => (new Date(postB.frontmatter.pubDate) - new Date(postA.frontmatter.pubDate)))
 		.map((post) => 
@@ -17,6 +18,5 @@ const allPosts = await Astro.glob('./pub/*/*/*/*.md');
 		  <p style="margin-top:0;margin-bottom:20px;color:#757575;font-size:12px;">{post.frontmatter.author}, {post.frontmatter.pubDate}</p>
 		</li>)}
 	</ul>
-  <p><a href="archive">Archive</a></p>
 </BaseLayoutArchive>
 
