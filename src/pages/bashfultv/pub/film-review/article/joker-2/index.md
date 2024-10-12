@@ -15,4 +15,4 @@ I like to frame the two Joker movies as a sort of Crime and Punishment. The firs
 
 ⭐ 6/10
 
-<a href="https://letterboxd.com/for_you_bruce/film/joker-folie-a-deux/">View on Letterboxd</a>
+<a href="https://letterboxd.com/for_you_bruce/film/joker-folie-a-deux/" target="_blank" rel="noopener noreferrer">View on Letterboxd</a>
