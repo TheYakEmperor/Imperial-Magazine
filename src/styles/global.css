@@ -63,6 +63,34 @@ figcaption {
     border:1px solid black;
     border-radius:25px;
 }
+.footnote {
+    margin-top:20px;
+    background-image: url('/src/Images/wp169.gif');
+    border-radius:15px;
+}
+.footnoteinner {
+    background-color:#f2f2f2;
+    margin-left:20px;
+    margin-right:20px;
+}
+.footnote h1 {
+    color:white;
+    text-shadow:2px 2px 2px #b702cf;
+    text-align:center;
+    padding-top:20px;
+    font-family: 'Press Start';
+}
+.footnote h2 {
+    padding-left:10px;
+}
+.footnote p {
+    padding-top:10px;
+    padding-left:10px;
+    padding-right:10px;
+}
+.footnote ul {
+    padding-left:25px;
+}
 .navbar li a {
     text-decoration:none;
 }

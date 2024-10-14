@@ -129,15 +129,17 @@ const allPosts = await Astro.glob('/*/*/*/*/*/*/*/*.md');
                   <p style="color:#757575;padding:0;padding-left:5px;font-size:12px;">{frontmatter.pubDate} {frontmatter.time}</p>
                   <hr>
                   <slot/>
-                  <hr style="margin-top:40px;">
-                  <div>
+                  <div class="footnote">
                      <h1>Support Independent Creators!</h1>
+                     <div class="footnoteinner">
                      <p>Glorified social media such as Letterboxd and Goodreads put a thorn in the side of independent websites like mine. Support critics at the grassroots level rather than propping up corporate entities.</p>
                      <h2>Resources:</h2>
-                     <ul style="font-size:15px;" class="nobullets">
+                     <ul style="font-size:15px;">
                         <li>Neocities</li>
                         <li>IWI</li>
                      </ul>
+                     </div>
+                  <br/>
                   </div>
                   <hr style="margin-top:20px;">
                   <div>
