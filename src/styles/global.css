@@ -12,7 +12,7 @@ html, body {
 }
 body a {
     color:blue;
-    font-weight:bold;
+    font-weight:normal;
 }
 ul.list li {
     padding-bottom:5px;
