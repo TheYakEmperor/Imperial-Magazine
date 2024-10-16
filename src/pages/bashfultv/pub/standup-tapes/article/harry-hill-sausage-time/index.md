@@ -8,6 +8,7 @@ author: 'Harold James'
 pub: Standup Tapes
 thumb: https://m.media-amazon.com/images/I/81VT4Ww8o7L._AC_UF1000,1000_QL80_.jpg
 puburl: "https://imperialmagazine.netlify.app/bashfultv/pub/standup-tapes/"
+tags: ["Harry Hill", "British standup"]
 ---
 <img src="https://m.media-amazon.com/images/I/81VT4Ww8o7L._AC_UF1000,1000_QL80_.jpg" style="width:145px;height:auto;float:left;padding-right:10px;padding-left:5px;">
 

@@ -8,7 +8,7 @@ author: 'Harold James'
 pub: Film Review
 thumb: https://a.ltrbxd.com/resized/film-poster/8/0/0/8/5/8/800858-joker-folie-a-deux-0-2000-0-3000-crop.jpg?v=a4bf0389e2
 puburl: "https://imperialmagazine.netlify.app/bashfultv/pub/film-review"
-tags: ["comic book movie"]
+tags: ["comic book movie", "American film"]
 ---
 <img src="https://a.ltrbxd.com/resized/film-poster/8/0/0/8/5/8/800858-joker-folie-a-deux-0-2000-0-3000-crop.jpg?v=a4bf0389e2" style="width:150px;height:auto;float:left;padding-right:10px;padding-left:5px;">
 
