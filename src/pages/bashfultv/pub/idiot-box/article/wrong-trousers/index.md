@@ -13,7 +13,6 @@ puburl: "https://imperialmagazine.netlify.app/bashfultv"
 
 A cozy pastiche that feels both older and newer than it actually is. Wallace himself is an ode to our illustrious lineage of absent-minded professors (Branestawm, Calculus, Caractacus Potts, etc.), where Gromit is the see-much-evil-speak-no-evil Cassandran figure who has no mouth and must scream. It's the perfect duo. Feathers McGraw is the archetypal unassuming bad guy; his black-bead eyes are cute for a time, but made disquieting by lingering shots of him leering around the house and staring soullessly into the camera.
 
-<br/>
 Watched in preparation for the upcoming <i>Vengeance Most Fowl</i>, which I will cover as a part of a Christmas omnibus review.
 
 <a href="https://letterboxd.com/for_you_bruce/film/the-wrong-trousers/" target="_blank" rel="noopener noreferrer">View on Letterboxd</a>
