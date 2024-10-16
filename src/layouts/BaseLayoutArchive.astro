@@ -5,6 +5,7 @@ import Gitch from '/src/Images/computers.jpg';
 import Oldlady from '/src/Images/oldladyrocking.gif';
 import Humanmade from '/src/Images/human-made.gif';
 import construction from '/src/Images/construction.jpg';
+import favicon from '/src/Images/favicon.png';
 
 const {title} = Astro.props;
 const {description} = Astro.props;
@@ -16,7 +17,7 @@ const {description} = Astro.props;
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <meta name="generator" content={Astro.generator}>
       <title>{title}</title>
-      <link rel="icon" type="image/svg+xml" href="/src/Images/favicon.png" />
+      <link rel="icon" type="image/svg+xml" href={favicon.src} />
    </head>
    <body class="scroll">
       <img src="https://theyakemperor.neocities.org/Images/kisspng-ultra-high-definition-television-desktop-wallpaper-5ae3e433096d03.6708256115248845310386.png" style="position:absolute;margin-left:975px;margin-top:135px;width:300px;height:auto;transform:rotate(-25deg)">
