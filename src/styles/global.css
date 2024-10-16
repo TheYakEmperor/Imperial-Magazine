@@ -321,9 +321,21 @@ ul.truenobullets {
 
 @font-face{
     font-family: Adobe Garamond Pro;
-    src: local("/src/Fonts"),
-    url("AGaramondPro-Bold.otf") format("opentype"),
-    url("AGaramondPro-BoldItalic.otf") format("opentype"),
-    url("AGaramondPro-Italic.otf") format("opentype"),
-    url("AGaramondPro-Regular.otf") format("opentype");
+    src: url("/src/Fonts/AGaramondPro-Regular.otf") format("opentype");
+}
+@font-face {
+    font-family: Adobe Garamond Pro;
+    src: url("/src/Fonts/AGaramondPro-Italic.otf") format("opentype");
+    font-style:italic;
+}
+@font-face {
+    font-family: Adobe Garamond Pro;
+    src: url("/src/Fonts/AGaramondPro-Bold.otf") format("opentype");
+    font-weight:bold;
+}
+@font-face {
+    font-family: Adobe Garamond Pro;
+    src: url("/src/Fonts/AGaramondPro-BoldItalic.otf") format("opentype");
+    font-weight:bold;
+    font-style:italic;
 }
