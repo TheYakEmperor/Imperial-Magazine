@@ -2,7 +2,7 @@
 layout: /src/layouts/BaseLayout.astro
 title: "REVIEW: Agatha All Along (2024)"
 description: 
-pubDate: Sat 12 Oct 2024
+pubDate: Wed 16 Oct 2024
 time: 16:17 BST
 author: 'Harold James'
 pub: The Idiot Box

@@ -2,7 +2,7 @@
 layout: /src/layouts/BaseLayout.astro
 title: "REVIEW: The Wrong Trousers (1993)"
 description: 
-pubDate: Sat 12 Oct 2024
+pubDate: Wed 16 Oct 2024
 time: 16:15 BST
 author: 'Harold James'
 pub: The Idiot Box
