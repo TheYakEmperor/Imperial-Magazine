@@ -1,6 +1,6 @@
 ---
 layout: /src/layouts/BaseLayout.astro
-title: "<i>From</i> Christmas Omnibus 2024 — Doctor Who: Joy to the World"
+title: "*From* Christmas Omnibus 2024 — Doctor Who: Joy to the World"
 description: 
 pubDate: Wed 25 Oct 2024
 time: 15:20 BST
