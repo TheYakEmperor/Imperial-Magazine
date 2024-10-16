@@ -8,6 +8,7 @@ author: 'Harold James'
 pub: Classic Film Review
 thumb: https://a.ltrbxd.com/resized/film-poster/4/5/5/4/5/45545-fellini-s-satyricon-0-2000-0-3000-crop.jpg?v=537393025e
 puburl: "https://imperialmagazine.netlify.app/bashfultv/pub/classic-film-review"
+tags: ["fellini"]
 ---
 <img src="https://a.ltrbxd.com/resized/film-poster/4/5/5/4/5/45545-fellini-s-satyricon-0-2000-0-3000-crop.jpg?v=537393025e" style="width:150px;height:auto;float:left;padding-right:10px;padding-left:5px;">
 
