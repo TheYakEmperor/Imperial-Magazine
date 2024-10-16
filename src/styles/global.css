@@ -339,3 +339,7 @@ ul.truenobullets {
     font-weight:bold;
     font-style:italic;
 }
+@font-face {
+    font-family: Press Start;
+    src: url("/src/Fonts/prstart-webfont.woff");
+}
