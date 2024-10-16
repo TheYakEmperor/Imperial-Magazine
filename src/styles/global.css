@@ -318,3 +318,11 @@ ul.truenobullets {
     margin:0;
     padding:0;
 }
+
+@font-face{
+    font-family: Adobe Garamond Pro;
+    src: url("/src/Fonts/AGaramondPro-Bold.otf") format("opentype"),
+    url("/src/Fonts/AGaramondPro-BoldItalic.otf") format("opentype"),
+    url("/src/Fonts/AGaramondPro-Italic.otf") format("opentype"),
+    url("/src/Fonts/AGaramondPro-Regular.otf") format("opentype");
+}
