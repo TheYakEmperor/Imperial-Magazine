@@ -128,7 +128,7 @@ const allPosts = await Astro.glob('/*/*/*/*/*/*/*/*.md');
                   <h1>{frontmatter.title}</h1>
                   <h3>{frontmatter.description}</h3>
                   <hr>
-                  <p style="padding:0;padding-left:5px;font-size:14px;"><b>{frontmatter.author}</p>
+                  <p style="padding:0;padding-left:5px;font-size:14px;">{frontmatter.author}</p>
                   <p style="color:#757575;padding:0;padding-left:5px;font-size:12px;">{frontmatter.pubDate} {frontmatter.time}</p>
                   <hr>
                   <slot/>
