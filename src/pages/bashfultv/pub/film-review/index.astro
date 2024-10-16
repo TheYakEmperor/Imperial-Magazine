@@ -4,7 +4,6 @@ const pageTitle="Film Review";
 const allPosts = await Astro.glob('./article/*/*.md');
 ---
 <BaseLayoutArchive title={pageTitle}>
-	<p><a href="archive">Archive</a></p>
 	<ul style="font-size:15px;" class="truenobullets">
 		{allPosts.sort((postA, postB) => (new Date(postB.frontmatter.pubDate) - new Date(postA.frontmatter.pubDate)))
 		.map((post) => 
