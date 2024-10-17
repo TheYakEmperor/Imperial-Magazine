@@ -10,7 +10,7 @@ thumb: https://theyakemperor.neocities.org/Images/dreams.jpg
 puburl: "https://imperialmagazine.netlify.app/bashfultv/pub/classic-film-review"
 tags: ["Akira Kurosawa", "Japanese film"]
 ---
-<img src="https://theyakemperor.neocities.org/Images/dreams.jpg" style="width:150px;height:auto;float:left;padding-right:10px;padding-left:5px;">
+<img src="https://theyakemperor.neocities.org/Images/dreams.jpg" style="width:145px;height:auto;float:left;padding-right:10px;padding-left:5px;">
 
 Don't films like this just make you want to explore the world? I think all of us have a village of water wheels inside us. Kurosawa finds in it a facsimile of his home—following the great war, nuclear devastation, and predation by corporate, self-loathing demons—which his erstwhile self could not find in the sanctified but static Van Gogh. There is a peculiarly haunting notion that having witnessed the foxes' wedding may have kick-started the chain reaction that leads to the collapse of Japanese principles on a societal level; the defiance of strange traditions such as are found in old wives' tales is observably the first domino to fall on the long road to cultural vandalism.
 
