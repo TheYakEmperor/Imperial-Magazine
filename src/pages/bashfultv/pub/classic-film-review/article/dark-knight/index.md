@@ -18,6 +18,6 @@ Bloated front matter aside, this still stands as the cream of the crop of Batman
 
 Bale plays the perfect journeyman caped crusader; Ledger is iconic as the Joker; Eckhart is remarkably deft as the brusque and standoffish Harvey 'Two-Face' Dent; Oldman as Gordon is a force of nature; seeing Michael Caine and Morgan Freeman in anything is always a wonderful treat; but my favourite performance might be Maggie Gyllenhaal's characteristically unsentimental Rachel Dawes, who is at once a dour, dolled-up socialite and the jewel in the crown that ensnares Gotham's white and dark knights in a vicious love triangle. Only one of them makes it out alive. Place your bets on who. If you can't decide, flip a coin and leave it to chance.
 
-Reviewed as part of series: <a href="/src/pages/series/batman"><i>Batman</i></a>
+Reviewed as part of series: <a href="/series/batman"><i>Batman</i></a>
 
 <a href="https://letterboxd.com/for_you_bruce/film/the-dark-knight" target="_blank" rel="noopener noreferrer">View on Letterboxd</a>
