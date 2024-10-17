@@ -12,7 +12,7 @@ tags: ["Christopher Nolan", "American film", "comic book movie", "Batman"]
 ---
 <img src="https://m.media-amazon.com/images/I/A1exRxgHRRL._AC_SL1500_.jpg" style="width:150px;height:auto;float:left;padding-right:10px;padding-left:5px;">
 
-<i>'The clown’ll keep till morning'</i>
+<i>The clown’ll keep till morning</i>
 
 Bloated front matter aside, this still stands as the cream of the crop of Batman movies and superhero flicks in general. It's certainly the finest instalment in the long list of films and television shows that have attempted to deconstruct the Batman mythology by reifying the destructive (and at times, criminal) extent of his so-called peacekeeping. Say, what does happen when an unstoppable force meets an immovable object? You get the Bale-Ledger mano a mano in Gordon's detention block, which is simply inimitable (and believe me, there has been no shortage of <a href="https://www.youtube.com/watch?v=Uw-DeSPhZUc">attempts</a>). The sequences involving Batman's hands-on extradition of mob accountant Lau from Hong Kong and his fight against Gordon's SWATs as he ascends the Prewitt Building are also standout. 
 
