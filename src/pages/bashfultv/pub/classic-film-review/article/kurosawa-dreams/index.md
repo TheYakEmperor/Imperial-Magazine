@@ -3,7 +3,7 @@ layout: /src/layouts/BaseLayout.astro
 title: "REVIEW: Dreams (1990)"
 description: 
 pubDate: Fri 18 Oct 2024
-time: 0:42 BST
+time: 00:42 BST
 author: 'Harold James'
 pub: Classic Film Review
 thumb: https://theyakemperor.neocities.org/Images/dreams.jpg

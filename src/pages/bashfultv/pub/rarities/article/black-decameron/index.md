@@ -3,7 +3,7 @@ layout: /src/layouts/BaseLayout.astro
 title: "The Black Decameron (1972)"
 description: 
 pubDate: Fri 18 Oct 2024
-time: 3:51 BST
+time: 03:51 BST
 author: 'Harold James'
 pub: Rarities
 thumb: https://a.ltrbxd.com/resized/film-poster/2/2/1/0/4/9/221049-the-black-decameron-0-2000-0-3000-crop.jpg?v=02c833eaaf
