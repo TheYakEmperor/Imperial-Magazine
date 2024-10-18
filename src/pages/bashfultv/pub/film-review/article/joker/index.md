@@ -14,4 +14,6 @@ tags: ["comic book movie", "American film", "Batman", "Todd Phillips"]
 
 <i>Taxi Driver</i> and <i>The King of Comedy</i> tell stories of law-breaking reprobates who are embraced by the media. <i>Joker</i> does not tell this story, because it cannot. Things are getting crazier out there, and shooting up a nest of prostitutes or performing a naff standup routine on TV won't get you anywhere these days. Joker steps over the line, gaining fringe support from Gotham's dispossessed, but is admonished by the media. What a perfect meta-narrative. Accusations of irresponsibility and 'pandering to incels' couldn't stop a billion dollar box office in this case. But in the years since, this movie has been enshrined and legitimised by our newspaper columns, critic reviews, and awards ceremonies. If the media circus of Gotham refused to embrace Joker, then ours surely has.
 
+Reviewed as part of series: <a href="/series/batman"><i>Batman</i></a>
+
 <a href="https://letterboxd.com/for_you_bruce/film/joker-2019/" target="_blank" rel="noopener noreferrer">View on Letterboxd</a>
