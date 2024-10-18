@@ -1,6 +1,6 @@
 ---
 layout: /src/layouts/BaseLayout.astro
-title: "REVIEW: Joker (2019)
+title: "REVIEW: Joker (2019)"
 description: 
 pubDate: Fri 18 Oct 2024
 time: 18:09 BST
