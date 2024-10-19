@@ -10,7 +10,7 @@ thumb: https://m.media-amazon.com/images/M/MV5BMTI1Nzg5NzE5Nl5BMl5BanBnXkFtZTYwM
 puburl: "https://imperialmagazine.netlify.app/bashfultv/pub/deep-cuts"
 tags: ["Amy Jenkins", "Stephen Hopkins", "Menhaj Huda", "Charles McDougall", "Bob Hoskins", "Ewan McGregor", "Jude Law", "Armando Iannucci", "Gaby Dellal", "British film", "Social realism", "anthology film"]
 ---
-<img src="https://m.media-amazon.com/images/M/MV5BMTI1Nzg5NzE5Nl5BMl5BanBnXkFtZTYwMDI4MTI5._V1_FMjpg_UX1000_.jpg" style="width:145px;height:auto;float:left;padding-right:10px;padding-left:5px;">
+<img src="https://m.media-amazon.com/images/M/MV5BMTI1Nzg5NzE5Nl5BMl5BanBnXkFtZTYwMDI4MTI5._V1_FMjpg_UX1000_.jpg" style="width:150px;height:auto;float:left;padding-right:10px;padding-left:5px;">
 
 Does exactly what it says on the tin: it’s some stories set on the tube. I first discovered this as the sole film in Ewan McGregor’s directorial filmography aside from the disastrous <i>American Pastoral</i>, which piqued my curiosity. Then I noticed Armando Iannucci's name in the credits, and I just had to give it a go. This is one of those scrappy British social realism anthologies that puts nasty, gimmicky filler material ahead of genuine interpersonal drama and comedic catharsis. 
 
