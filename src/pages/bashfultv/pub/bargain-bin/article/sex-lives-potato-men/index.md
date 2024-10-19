@@ -1,11 +1,11 @@
 ---
 layout: /src/layouts/BaseLayout.astro
-title: "REVIEW: 964 Pinocchio (1991)"
+title: "REVIEW: Sex Lives of the Potato Men (2004)"
 description: 
-pubDate: Fri 18 Oct 2024
-time: 21:43 BST
+pubDate: Sat 19 Oct 2024
+time: 17:45 BST
 author: 'Harold James'
-pub: Deep Cuts
+pub: Bargain Bin
 thumb: https://a.ltrbxd.com/resized/film-poster/4/3/9/4/6/43946-sex-lives-of-the-potato-men-0-2000-0-3000-crop.jpg?v=e34b53366b
 puburl: "https://imperialmagazine.netlify.app/bashfultv/pub/bargain-bin"
 tags: ["Andy Humphries", "British film", "comedy", "sex comedy"]
