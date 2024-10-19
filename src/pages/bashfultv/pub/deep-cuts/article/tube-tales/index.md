@@ -16,6 +16,6 @@ Does exactly what it says on the tin: it’s some stories set on the tube. I fir
 
 There's the overriding theme that people and the world are awful, because of course, but there's no real exploration here. It seems just to have been designed to depress and disgust. Why is it that young British directors believe filming urban gloom is enough to feign prestige? The humour is also abysmal. A dirty old man gets an erection in a busy carriage after being seduced by a scaggy bimbo on the train. It’s funny cause he’s got a boner in a public place where there’s lots of people and that’s embarrassing. D’you get it? That is an example of the simple and dull extent to which these vignettes take the idea of being confined in an underground metal tube with lots of people. To its credit though, Bob Hoskins’ <i>My Father the Liar</i> is a standout piece. There's something genuinely insidious about it. 
 
-I think if they had taken this a little more seriously, perhaps something would have come of it. As it stands, 7 of the 9 segments are passable at best, and one is awful. Interesting to see Simon Pegg in his first film credit, though.
+To think if they had just taken this a little more seriously, something really interesting might have come of it. As it stands, 7 of the 9 segments are passable at best, and one is awful. Interesting to see Simon Pegg in his first film credit, though.
 
 <a href="https://letterboxd.com/for_you_bruce/film/tube-tales" target="_blank" rel="noopener noreferrer">View on Letterboxd</a>
