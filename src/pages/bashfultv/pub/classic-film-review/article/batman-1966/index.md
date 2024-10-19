@@ -10,7 +10,7 @@ thumb: https://theyakemperor.neocities.org/Images/batposter.png
 puburl: "https://imperialmagazine.netlify.app/bashfultv/pub/classic-film-review"
 tags: ["Leslie H. Martinson", "American film", "comic book movie", "Batman"]
 ---
-<img src="https://theyakemperor.neocities.org/Images/batposter.png" style="width:150px;height:auto;float:left;padding-right:10px;padding-left:5px;">
+<img src="https://theyakemperor.neocities.org/Images/batposter.png" style="width:155px;height:auto;float:left;padding-right:10px;padding-left:5px;">
 
 <i>They may be drinkers, Robin, but they’re also human beings</i>
 
