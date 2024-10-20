@@ -1,9 +1,10 @@
 ---
 import BaseLayoutArchive from "../../../../layouts/BaseLayoutArchive.astro";
 const pageTitle="Deep Cuts";
+const toppageTitle="Harold James World | Deep Cuts";
 const allPosts = await Astro.glob('./article/*/*.md');
 ---
-<BaseLayoutArchive title={pageTitle}>
+<BaseLayoutArchive title={pageTitle} ptitle={toppageTitle}>
 	<ul style="font-size:15px;" class="truenobullets">
 		{allPosts.sort((postA, postB) => (new Date(postB.frontmatter.pubDate) - new Date(postA.frontmatter.pubDate)))
 		.map((post) => 

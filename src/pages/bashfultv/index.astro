@@ -1,9 +1,10 @@
 ---
 import BaseLayoutArchive from "../../layouts/BaseLayoutArchive.astro";
 const pageTitle="The Idiot Box";
+const toppageTitle="Harold James World | The Idiot Box";
 const allPosts = await Astro.glob('./pub/*/*/*/*.md');
 ---
-<BaseLayoutArchive title={pageTitle}>
+<BaseLayoutArchive title={pageTitle} ptitle={toppageTitle}>
 	<p><a href="archive">Archive</a></p>
 	<ul style="font-size:15px;" class="truenobullets">
 		{allPosts.sort((postA, postB) => (new Date(postB.frontmatter.pubDate) - new Date(postA.frontmatter.pubDate)))
