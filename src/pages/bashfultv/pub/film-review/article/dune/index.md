@@ -7,7 +7,7 @@ time: 18:10 BST
 author: 'Harold James'
 pub: Film Review
 thumb: https://a.ltrbxd.com/resized/sm/upload/nx/8b/vs/gc/cDbNAY0KM84cxXhmj8f0dLWza3t-0-2000-0-3000-crop.jpg?v=49eed12751
-puburl: "https://imperialmagazine.netlify.app/bashfultv/pub/film-review"
+puburl: "https://haroldjamesworld.netlify.app/bashfultv/pub/film-review"
 tags: ["Denis Villeneuve", "American film", "Sci-fi"]
 ---
 Denis Villeneuve films various drab landscapes with all the directorial grace of a ballerina made to dance on a bed of rusty nails. A disaster for epic science-fiction.

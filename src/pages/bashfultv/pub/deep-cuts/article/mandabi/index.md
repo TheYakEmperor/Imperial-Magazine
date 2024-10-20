@@ -7,7 +7,7 @@ time: 11:48 BST
 author: 'Harold James'
 pub: Deep Cuts
 thumb: https://a.ltrbxd.com/resized/film-poster/8/1/2/2/0/81220-mandabi-0-2000-0-3000-crop.jpg?v=8c9fb4aeb6
-puburl: "https://imperialmagazine.netlify.app/bashfultv/pub/deep-cuts"
+puburl: "https://haroldjamesworld.netlify.app/bashfultv/pub/deep-cuts"
 tags: ["Ousmane Sembène", "African film", "French film", "Senegalese film"]
 ---
 <img src="https://a.ltrbxd.com/resized/film-poster/8/1/2/2/0/81220-mandabi-0-2000-0-3000-crop.jpg?v=8c9fb4aeb6" style="width:150px;height:auto;float:left;padding-right:10px;padding-left:5px;">

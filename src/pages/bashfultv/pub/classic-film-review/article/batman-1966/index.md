@@ -7,7 +7,7 @@ time: 04:29 BST
 author: 'Harold James'
 pub: Classic Film Review
 thumb: https://theyakemperor.neocities.org/Images/batposter.png
-puburl: "https://imperialmagazine.netlify.app/bashfultv/pub/classic-film-review"
+puburl: "https://haroldjamesworld.netlify.app/bashfultv/pub/classic-film-review"
 tags: ["Leslie H. Martinson", "American film", "comic book movie", "Batman"]
 ---
 <img src="https://theyakemperor.neocities.org/Images/batposter.png" style="width:155px;height:auto;float:left;padding-right:10px;padding-left:5px;">

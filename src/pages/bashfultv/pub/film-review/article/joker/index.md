@@ -7,7 +7,7 @@ time: 18:09 BST
 author: 'Harold James'
 pub: Film Review
 thumb: https://a.ltrbxd.com/resized/film-poster/4/0/6/7/7/5/406775-joker-0-2000-0-3000-crop.jpg?v=e4ea7f98cc
-puburl: "https://imperialmagazine.netlify.app/bashfultv/pub/film-review"
+puburl: "https://haroldjamesworld.netlify.app/bashfultv/pub/film-review"
 tags: ["comic book movie", "American film", "Batman", "Todd Phillips"]
 ---
 <img src="https://a.ltrbxd.com/resized/film-poster/4/0/6/7/7/5/406775-joker-0-2000-0-3000-crop.jpg?v=e4ea7f98cc" style="width:150px;height:auto;float:left;padding-right:10px;padding-left:5px;">

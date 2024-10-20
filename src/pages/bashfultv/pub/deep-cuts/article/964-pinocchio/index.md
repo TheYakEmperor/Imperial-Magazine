@@ -7,7 +7,7 @@ time: 21:43 BST
 author: 'Harold James'
 pub: Deep Cuts
 thumb: https://a.ltrbxd.com/resized/film-poster/1/5/4/8/5/15485-964-pinocchio-0-2000-0-3000-crop.jpg?v=2a2ab5e556
-puburl: "https://imperialmagazine.netlify.app/bashfultv/pub/deep-cuts"
+puburl: "https://haroldjamesworld.netlify.app/bashfultv/pub/deep-cuts"
 tags: ["Shozin Fukui", "Japanese film", "J-horror", "deep shit"]
 ---
 <img src="https://a.ltrbxd.com/resized/film-poster/1/5/4/8/5/15485-964-pinocchio-0-2000-0-3000-crop.jpg?v=2a2ab5e556" style="width:145px;height:auto;float:left;padding-right:10px;padding-left:5px;">

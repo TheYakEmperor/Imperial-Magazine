@@ -7,7 +7,7 @@ time: 00:42 BST
 author: 'Harold James'
 pub: Classic Film Review
 thumb: https://theyakemperor.neocities.org/Images/dreams.jpg
-puburl: "https://imperialmagazine.netlify.app/bashfultv/pub/classic-film-review"
+puburl: "https://haroldjamesworld.netlify.app/bashfultv/pub/classic-film-review"
 tags: ["Akira Kurosawa", "Japanese film"]
 ---
 <img src="https://theyakemperor.neocities.org/Images/dreams.jpg" style="width:145px;height:auto;float:left;padding-right:10px;padding-left:5px;">

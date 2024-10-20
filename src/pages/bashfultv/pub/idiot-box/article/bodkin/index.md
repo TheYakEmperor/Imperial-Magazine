@@ -7,7 +7,7 @@ time: 15:20 BST
 author: 'Harold James'
 pub: The Idiot Box
 thumb: https://a.ltrbxd.com/resized/film-poster/1/2/4/5/4/3/8/1245438-bodkin-0-2000-0-3000-crop.jpg?v=e22b0462dc
-puburl: "https://imperialmagazine.netlify.app/bashfultv"
+puburl: "https://haroldjamesworld.netlify.app/bashfultv"
 ---
 <img src="https://a.ltrbxd.com/resized/film-poster/1/2/4/5/4/3/8/1245438-bodkin-0-2000-0-3000-crop.jpg?v=e22b0462dc" style="width:150px;height:auto;float:left;padding-right:10px;padding-left:5px;">
 

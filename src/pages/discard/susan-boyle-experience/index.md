@@ -7,7 +7,7 @@ time: 17:31 BST
 author: 'Harold James'
 pub: Solid Gold Chartbusters
 thumb: https://i2-prod.liverpoolecho.co.uk/incoming/article16120515.ece/ALTERNATES/s1200/0_BeFunky-collage-1.jpg
-puburl: "https://imperialmagazine.netlify.app/music-stuff/pub/solid-gold-chartbusters/"
+puburl: "https://haroldjamesworld.netlify.app/music-stuff/pub/solid-gold-chartbusters/"
 ---
 <figure>
 <img src="https://i2-prod.liverpoolecho.co.uk/incoming/article16120515.ece/ALTERNATES/s1200/0_BeFunky-collage-1.jpg" style="width:500px;height:auto;" class="center">

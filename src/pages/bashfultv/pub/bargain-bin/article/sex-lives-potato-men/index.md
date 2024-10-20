@@ -7,7 +7,7 @@ time: 17:45 BST
 author: 'Harold James'
 pub: Bargain Bin
 thumb: https://m.media-amazon.com/images/I/51kUCWh2TKL._AC_UF1000,1000_QL80_.jpg
-puburl: "https://imperialmagazine.netlify.app/bashfultv/pub/bargain-bin"
+puburl: "https://haroldjamesworld.netlify.app/bashfultv/pub/bargain-bin"
 tags: ["Andy Humphries", "British film", "comedy", "sex comedy"]
 ---
 <img src="https://m.media-amazon.com/images/I/51kUCWh2TKL._AC_UF1000,1000_QL80_.jpg" style="width:145px;height:auto;float:left;padding-right:10px;padding-left:5px;">

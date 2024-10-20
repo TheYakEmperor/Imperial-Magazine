@@ -7,7 +7,7 @@ time: 03:51 BST
 author: 'Harold James'
 pub: Rarities
 thumb: https://a.ltrbxd.com/resized/film-poster/2/2/1/0/4/9/221049-the-black-decameron-0-2000-0-3000-crop.jpg?v=02c833eaaf
-puburl: "https://imperialmagazine.netlify.app/bashfultv/pub/rarities"
+puburl: "https://haroldjamesworld.netlify.app/bashfultv/pub/rarities"
 tags: ["Piero Vivarelli", "Italian film"]
 ---
 <img src="https://a.ltrbxd.com/resized/film-poster/2/2/1/0/4/9/221049-the-black-decameron-0-2000-0-3000-crop.jpg?v=02c833eaaf" style="width:150px;height:auto;float:left;padding-right:10px;padding-left:5px;">

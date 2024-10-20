@@ -7,7 +7,7 @@ time: 16:15 BST
 author: 'Harold James'
 pub: The Idiot Box
 thumb: https://a.ltrbxd.com/resized/film-poster/5/1/5/8/6/51586-the-wrong-trousers-0-2000-0-3000-crop.jpg?v=1ea270cc62
-puburl: "https://imperialmagazine.netlify.app/bashfultv"
+puburl: "https://haroldjamesworld.netlify.app/bashfultv"
 tags: ["Wallace and Gromit", "Aardman", "British film"]
 ---
 <img src="https://a.ltrbxd.com/resized/film-poster/5/1/5/8/6/51586-the-wrong-trousers-0-2000-0-3000-crop.jpg?v=1ea270cc62" style="width:150px;height:auto;float:left;padding-right:10px;padding-left:5px;">

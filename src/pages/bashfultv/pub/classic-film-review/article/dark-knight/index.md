@@ -7,7 +7,7 @@ time: 16:33 BST
 author: 'Harold James'
 pub: Classic Film Review
 thumb: https://m.media-amazon.com/images/I/A1exRxgHRRL._AC_SL1500_.jpg
-puburl: "https://imperialmagazine.netlify.app/bashfultv/pub/classic-film-review"
+puburl: "https://haroldjamesworld.netlify.app/bashfultv/pub/classic-film-review"
 tags: ["Christopher Nolan", "American film", "comic book movie", "Batman"]
 ---
 <img src="https://m.media-amazon.com/images/I/A1exRxgHRRL._AC_SL1500_.jpg" style="width:150px;height:auto;float:left;padding-right:10px;padding-left:5px;">
