@@ -10,7 +10,7 @@ thumb: https://a.ltrbxd.com/resized/film-poster/8/1/2/2/0/81220-mandabi-0-2000-0
 puburl: "https://imperialmagazine.netlify.app/bashfultv/pub/deep-cuts"
 tags: ["Ousmane Sembène", "African film", "French film", "Senegalese film"]
 ---
-<img src="https://a.ltrbxd.com/resized/film-poster/8/1/2/2/0/81220-mandabi-0-2000-0-3000-crop.jpg?v=8c9fb4aeb6" style="width:145px;height:auto;float:left;padding-right:10px;padding-left:5px;">
+<img src="https://a.ltrbxd.com/resized/film-poster/8/1/2/2/0/81220-mandabi-0-2000-0-3000-crop.jpg?v=8c9fb4aeb6" style="width:150px;height:auto;float:left;padding-right:10px;padding-left:5px;">
 
 Discussion over African film always tends to be marred with the condescending tincture of what I like to call 'congratulatism', a sort of 'well done for trying' attitude that infantilises artists of underrepresented groups. One could mention, for example, that <i>Mandabi</i> was the first feature-length African-language film, or that it was Africa's first film shot in colour, among such other accomplishments, but I want to veer away from that pernicious brand of quantification. It cannot do us any good on a humanist level and denigrates the individual merit of art on the basis of having done this and that before anyone else. The vague and ultimately deleterious notion of 'trailblazing' is one that keeps at bay the actual value of art. No, instead I wish to discuss this film because it is a fantastically ironic development on European neo-realist cinema, worth far more than the pity of cultural flaneurs and post-colonial opportunists. 
 
