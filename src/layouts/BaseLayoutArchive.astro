@@ -9,6 +9,7 @@ import favicon from '/src/Images/favicon.png';
 
 const {title} = Astro.props;
 const {description} = Astro.props;
+const {ptitle} = Astro.props;
 ---
 <!DOCTYPE HTML>
 <html>
@@ -16,7 +17,7 @@ const {description} = Astro.props;
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <meta name="generator" content={Astro.generator}>
-      <title>{title}</title>
+      <title>{ptitle}</title>
       <meta name="google-site-verification" content="HaEBSIYUY0eB33NCwn-IxS8HiYZBKcwkuC_9Rl-qm1A" />
       <link rel="icon" type="image/svg+xml" href={favicon.src} />
    </head>
