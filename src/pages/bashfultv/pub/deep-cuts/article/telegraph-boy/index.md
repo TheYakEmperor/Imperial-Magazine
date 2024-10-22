@@ -3,7 +3,7 @@ layout: /src/layouts/BaseLayout.astro
 title: "REVIEW: The Adventure of Denchu-Kozo (1987)"
 description: 
 pubDate: Tue 22 Oct 2024
-time: 02:35
+time: 02:35 BST
 author: 'Harold James'
 pub: Deep Cuts
 thumb: https://a.ltrbxd.com/resized/film-poster/5/4/4/3/2/54432-the-adventure-of-denchu-kozo-0-2000-0-3000-crop.jpg?v=0b02001075
