@@ -10,7 +10,7 @@ thumb: https://m.media-amazon.com/images/M/MV5BNDFhZjJhY2QtOGM4Ni00MDFmLTg0NWEtM
 puburl: "https://haroldjamesworld.netlify.app/bashfultv/pub/classic-film-review"
 tags: ["Alan Clarke", "British film", "social realism", "sex comedy", "comedy", "drama"]
 ---
-<img src="https://m.media-amazon.com/images/M/MV5BNDFhZjJhY2QtOGM4Ni00MDFmLTg0NWEtMDc1ZWI2YzkzNzRhXkEyXkFqcGc@._V1_.jpg" style="width:145px;height:auto;float:left;padding-right:10px;padding-left:5px;">
+<img src="https://m.media-amazon.com/images/M/MV5BNDFhZjJhY2QtOGM4Ni00MDFmLTg0NWEtMDc1ZWI2YzkzNzRhXkEyXkFqcGc@._V1_.jpg" style="width:150px;height:auto;float:left;padding-right:10px;padding-left:5px;">
 
 A late great Grim Up North picture, dappled with pockets of 80s ambience exemplified by the Madness video playing on a squat television set at the start. The song is <i>House of Fun</i>, which tells the story of a 16-year-old boy who uses a string of coy euphemisms in order to obtain condoms from a chemist's. He's the sort of lad Rita and Sue were probably supposed to end up getting it off with, were it not for the influence of the titular Bob, a habitual bigamist for whom the girls' true affection is uncertain. Sue is the clear favourite, being a dead ringer for Bob's wife, Michelle, but Rita is the needier girl. 
 
